@@ -204,7 +204,7 @@ section > p:first-of-type {
     width: 2.5rem;
     height: 2.5rem;
     border-radius: 50%;
-    background-color: #0170df;
+    background-color: #111111;
     color: #FFFFFF;
     display: flex;
     align-items: center;
@@ -228,7 +228,7 @@ section > p:first-of-type {
 }
 
 .foundation-card strong {
-    color: #0170df;
+    color: #111111;
     font-variation-settings: "wght" 400;
 }
 
@@ -288,7 +288,7 @@ section > p:first-of-type {
     width: 1.6rem;
     height: 1.6rem;
     border-radius: 50%;
-    background-color: #0170df;
+    background-color: #111111;
     color: #FFFFFF;
     font-size: 0.75rem;
     font-variation-settings: "wght" 400;
@@ -323,8 +323,8 @@ section > p:first-of-type {
 .meta-tag {
     display: inline-block;
     padding: 0.35rem 0.75rem;
-    background-color: #EBF3FD;
-    color: #0170df;
+    background-color: #ECEBEA;
+    color: #111111;
     font-size: 0.75rem;
     font-variation-settings: "wght" 500;
     border-radius: 6px;
@@ -456,14 +456,14 @@ section > p:first-of-type {
 }
 
 .copy-button--copied {
-    background-color: #16a34a;
-    border-color: #16a34a;
+    background-color: #111111;
+    border-color: #111111;
     color: #FFFFFF;
 }
 
 .copy-button--copied:hover {
-    background-color: #15803d;
-    border-color: #15803d;
+    background-color: #3B3A39;
+    border-color: #3B3A39;
     color: #FFFFFF;
 }
 
@@ -472,9 +472,9 @@ section > p:first-of-type {
     display: inline-block;
     padding: 0rem 0.2rem;
     margin-left: 0.15rem;
-    background-color: #f2f8fd;
-    border: 1px solid #cce2f9;
-    color: #0170df;
+    background-color: #F6F5F3;
+    border: 1px solid #DCDBDA;
+    color: #111111;
     border-radius: 0.5rem;
     font-variation-settings: "wght" 450;
     font-size: 0.9em;
@@ -510,7 +510,7 @@ section > p:first-of-type {
     flex-shrink: 0;
     width: 40px;
     height: 40px;
-    background-color: #0170df;
+    background-color: #111111;
     border-radius: 8px;
     display: flex;
     align-items: center;
@@ -540,14 +540,14 @@ section > p:first-of-type {
     right: 2rem;
     width: 50px;
     height: 50px;
-    background-color: #0170df;
+    background-color: #111111;
     border: none;
     border-radius: 50%;
     color: white;
     font-size: 1.5rem;
     cursor: pointer;
     z-index: 100;
-    box-shadow: 0 4px 12px rgba(232, 64, 13, 0.3);
+    box-shadow: 0 4px 12px rgba(17, 17, 17, 0.2);
     transition: all 0.3s ease;
 }
 
