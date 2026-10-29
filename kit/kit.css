@@ -72,3 +72,6 @@ section a:hover { text-decoration: underline; }
     .example { padding-right: 3rem; }
     .kit-table { font-size: 0.85rem; min-width: 560px; }
 }
+.dl-note { font-size: 0.9rem; color: #5E5C5A; margin: -0.25rem 0 0.75rem; }
+.dl-thumb:has(img[src*="thumbs/"]) { padding: 0; background: #F1F0EE; }
+.dl-thumb img[src*="thumbs/"] { width: 100%; height: 100%; object-fit: cover; max-width: none; max-height: none; }
