@@ -113,3 +113,4 @@ section a:hover { text-decoration: underline; }
 .fx-x { background: #ECEBEA; border-radius: 4px; padding: 0 4px; font-variant-numeric: tabular-nums; }
 @media (max-width: 640px) { .rule-grid { grid-template-columns: 1fr; } }
 .real-footnote { font-size: 0.85rem; color: #5E5C5A; margin: -0.75rem 0 1.5rem; }
+.tool-grid.single { grid-template-columns: minmax(0, 560px); }
